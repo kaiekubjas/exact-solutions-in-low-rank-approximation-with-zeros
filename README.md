@@ -4,6 +4,9 @@ This repository contains computations for the paper "Exact solutions in low-rank
 ## Macaulay2 code: orbits.m2
 This file contains the code that computes the orbit representatives and orbit sizes of zero patterns in Table 7.
 
+## Macaulay2 code: linearRelations.m2
+This file contains the code that computes all linear (and affine) relations among critical points for  the constrained low-rank approximation problem when the constraints are given by l random linear relations in the entries x_(i,j).
+
 ## Julia code: crit_points_nxn_corank1_one_zero.jl
 This file contains the code that computes the critical points of constrained corank 1 approximation (in the square case) with zero pattern S={(1,1)}. The number of solutions appear in Table 2.
 
